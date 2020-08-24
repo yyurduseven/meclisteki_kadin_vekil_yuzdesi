@@ -1,5 +1,5 @@
 # TBMM'de Yer Alan Kadın Vekillerin İllere Göre Yüzdesel Dağılımı
-# (Percentage of Women in Turkish Parliament per Cities)
+## (Percentage of Women in Turkish Parliament per Cities)
 
 Python'da GeoPandas ile harita gösterimi üzerine hazırlanmış kısa bir proje.
 
